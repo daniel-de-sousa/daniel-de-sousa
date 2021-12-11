@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/daniel-de-sousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&show_icons=true&theme=aura&include_all_commits=true&count_private=true&"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&layout=compact&langs_count=7&theme=aura"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&show_icons=true&theme=aura&include_all_commits=true&count_private=true&"/>
+  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&layout=compact&langs_count=7&theme=aura"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,7 +17,6 @@
 
 <div> 
   <a href="https://www.instagram.com/dev_daniel.sousa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "sousadanielsb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/daniel-de-sousa/daniel-de-sousa/blob/output/github-contribution-grid-snake.svg)
  
