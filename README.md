@@ -5,15 +5,11 @@
 * 🏆 Graduating in Software Engineering from the University of Brasília
 * 👾 Off screens, I like to play video games and listen to music
 
-<br>
-
 ## I'm interested in
 * 💻 Full-Stack Development
 * 🗃 Data Structure
 * 📋 Complexity of Algorithms
 * 📘 Study English
-
-<br>
 
 ## Tech Stack
 
@@ -31,7 +27,6 @@
 </div>
 
 ## GitHub Analytics
-<br>
 
 <p align="center">
 <img width="450em" src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&show_icons=true&theme=aura&include_all_commits=true&count_private=true&" alt="maykbrito's stats"/>
