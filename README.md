@@ -19,7 +19,7 @@
 
 </br>
 
-<div style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; text-align: center;">
+<div style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; text-align: center; margin: 0 auto;">
   <h2>💭 “Complexidade não é um obstáculo, é um convite para aprender.”</h2>
 </div>
 
@@ -82,6 +82,7 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/seu_usuario)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/seu_usuario) -->
 
+</br>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -92,8 +93,8 @@
   <br/>
 
   <!-- Duas imagens lado a lado (centralizadas) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="155em" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="155em" />
 
 </div>
