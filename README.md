@@ -19,12 +19,6 @@
 
 </br>
 
-<div style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; text-align: center; margin: 0 auto;">
-  <h2>💭 “Complexidade não é um obstáculo, é um convite para aprender.”</h2>
-</div>
-
-</br>
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sb-sousa)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sousadanielsb@gmail.com)
@@ -90,7 +84,7 @@
   <!-- Streak (sozinha) -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false" alt="Streak do GitHub"/>
 
-  <br/>
+  <br/><br/>
 
   <!-- Duas imagens lado a lado (centralizadas) -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="155em" />
