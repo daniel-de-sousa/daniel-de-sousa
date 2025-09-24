@@ -2,7 +2,6 @@
 
 <img src="computer-illustration.png" alt="Banner" width="250" align="right"/>
 
-## 👨‍💻 Sobre mim
 - 🧰 **Técnico em Eletrônica**  
 - 🏆 **Graduando em Engenharia de Software** pela [Universidade de Brasília (UnB)](https://www.unb.br/)  
 - ⚙️ Apaixonado por **desafios** e por entender **sistemas complexos**  
