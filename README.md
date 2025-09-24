@@ -8,6 +8,7 @@
 - 📋 Autor de artigo científico: *[Planejamento Automatizado para Jogos de Estratégia em Tempo Real](https://www.plic.app.br/evento/cicdf/edicao/cicdf/publicacoes/2714)*  
 - 👾 Fora das telas: **videogames** e **música** são meus hobbies favoritos  
 
+</br>
 
 ## 💡 Áreas de Interesse
 - 💻 **Desenvolvimento Full Stack**  
@@ -16,9 +17,13 @@
 - 🤖 **Aprendizado de Máquina e Inteligência Artificial**  
 - 📘 **Estudo contínuo de Inglês**  
 
+</br>
+
 <div style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; text-align: center;">
   <h2>💭 “Complexidade não é um obstáculo, é um convite para aprender.”</h2>
 </div>
+
+</br>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sb-sousa)
@@ -84,7 +89,7 @@
   <!-- Streak (sozinha) -->
   <img src="https://nirzak-streak-stats.vercel.app/?user=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false" alt="Streak do GitHub"/>
 
-  <br/><br/>
+  <br/>
 
   <!-- Duas imagens lado a lado (centralizadas) -->
   <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150em" />
