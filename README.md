@@ -9,7 +9,6 @@
 - 📋 Autor de artigo científico: *[Planejamento Automatizado para Jogos de Estratégia em Tempo Real](https://www.plic.app.br/evento/cicdf/edicao/cicdf/publicacoes/2714)*  
 - 👾 Fora das telas: **videogames** e **música** são meus hobbies favoritos  
 
----
 
 ## 💡 Áreas de Interesse
 - 💻 **Desenvolvimento Full Stack**  
@@ -17,8 +16,6 @@
 - ⚡ **Software Embarcado**  
 - 🤖 **Aprendizado de Máquina e Inteligência Artificial**  
 - 📘 **Estudo contínuo de Inglês**  
-
----
 
 <div style="border: 2px solid #ccc; padding: 20px; border-radius: 12px; text-align: center;">
   <h2>💭 “Complexidade não é um obstáculo, é um convite para aprender.”</h2>
@@ -28,7 +25,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-sb-sousa)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sousadanielsb@gmail.com)
 
----
 
 ## 💻 Tech Stack
 
@@ -82,7 +78,6 @@
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/seu_usuario)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/seu_usuario) -->
 
----
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -93,8 +88,8 @@
   <br/><br/>
 
   <!-- Duas imagens lado a lado (centralizadas) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" height="150em" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-de-sousa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" height="150em" />
 
 </div>
